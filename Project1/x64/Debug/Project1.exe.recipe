@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\x64\Debug\Project1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\font.ttf</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\click.wav</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\correct.wav</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\mistake.wav</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\music_death.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\music_game.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\music_victory.mp3</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

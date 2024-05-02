@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\x64\Release\Project1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\font.ttf</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\background.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sprite - 1.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sprite - 2.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\click.wav</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\correct.wav</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\mistake.wav</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\music_death.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\music_game.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\music_victory.mp3</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\openal32.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sfml-audio-2.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sfml-audio-d-2.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sfml-graphics-2.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sfml-graphics-d-2.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sfml-network-2.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sfml-network-d-2.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sfml-system-2.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sfml-system-d-2.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sfml-window-2.dll</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\OneDrive\Документы\Projects\CPP\Project1\Project1\sfml-window-d-2.dll</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
