@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+*/.vs/
+/.vs/Project1
+/x64
